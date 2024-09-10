@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/arsal-kamil-31j07004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsal-kamil-31j07004" height="30" width="40" /></a>
 <a href="https://kaggle.com/arsalkamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arsalkamil" height="30" width="40" /></a>
 <a href="https://instagram.com/arslkml_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arslkml_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/arsville" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arsville" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@arsville" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arsville" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
