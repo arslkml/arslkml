@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/arslkml_" target="blank"><img src="https://img.shields.io/twitter/follow/arslkml_?logo=twitter&style=for-the-badge" alt="arslkml_" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript and MongoDB**
+- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **MERN**
 
