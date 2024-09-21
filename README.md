@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Fullstack Javascript**
 
 - 📫 How to reach me **arsalkamil317@gmail.com**
 
